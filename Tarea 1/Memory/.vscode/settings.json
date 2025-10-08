@@ -1,0 +1,5 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM8"
+}

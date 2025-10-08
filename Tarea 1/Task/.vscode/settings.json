@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "task.h": "c"
+    },
+    "idf.portWin": "COM8",
+    "idf.flashType": "UART"
+}

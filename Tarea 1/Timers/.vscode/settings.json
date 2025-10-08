@@ -1,0 +1,9 @@
+{
+    "idf.flashType": "UART",
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "timers.h": "c"
+    },
+    "idf.portWin": "COM8"
+}
